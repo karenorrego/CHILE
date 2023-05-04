@@ -1,0 +1,103 @@
+body{ 
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    margin: 80px;
+    padding: 0;
+    border: 80px;
+    font-family: sans-serif;
+    background-color: black;
+}
+.navbar{
+    background-color: aquamarine;
+    padding: 20%;
+
+}
+
+.navbar-brand img{
+    height: 60px;
+}
+
+header{
+    display: flex;
+}
+
+.carousel-item{
+    height: 400;
+}
+.carousel img{
+    width: 60%;
+
+}
+.carousel-control {
+    color:black;
+    width: 15%
+}
+
+
+.carousel-caption{
+    width: 70%;
+}
+
+.carousel-slider {
+    width: 95%;
+    margin: auto;
+    overflow: hidden;
+}
+
+section{
+    background: black;
+
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: verdana;
+    text-align: center;
+    color: aliceblue;
+}
+
+.card {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    
+}
+.card-group img{
+    width: 20%;
+
+}
+
+h2 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: verdana;
+    text-align: center;
+    color: aliceblue;
+}
+
+
+h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: verdana;
+    text-align: center;
+}
+
+.container-fluid {
+    display: flex;
+    padding: 5px;
+    background:  aqua;
+}
+
+
+
+
+
+
